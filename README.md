@@ -35,7 +35,3 @@ I’m also completing a **Cybersecurity Professional Certificate** to strengthen
 ### 📬 Contact  
 📧 Email: majidbaloch0973769@gmail.com 
 💻 GitHub: [github.com/majidbaloch0973769-crypto](https://github.com/majidbaloch0973769-crypto)
-
----
-
-> 💡 *"Combining software development with cybersecurity is the key to building a safer digital world."*
